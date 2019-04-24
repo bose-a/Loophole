@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095587441682",
+    "firebase_url": "https://loophole-6efbe.firebaseio.com",
+    "project_id": "loophole-6efbe",
+    "storage_bucket": "loophole-6efbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095587441682:android:7408c943a2eed82a",
+        "android_client_info": {
+          "package_name": "com.example.loophole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095587441682-alrcam44tfbttq4dd110isk3lbg9njba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LHZsSsjTi2TllZcSe-Jymwam4WQ3WFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095587441682-alrcam44tfbttq4dd110isk3lbg9njba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

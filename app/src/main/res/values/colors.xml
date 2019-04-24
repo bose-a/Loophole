@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AE5100</color>
+    <color name="colorPrimaryDark">#AE5100</color>
+    <color name="colorAccent">#AE5100</color>
+    <color name="root_backrgound">#C8FF8000</color>
+</resources>

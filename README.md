@@ -1,5 +1,4 @@
 # Loophole
-## _A robust e commerce app for Android_
+#### _A robust e commerce app for Android_
 
-![](loophole-demo.gif)
-
+![](loophole-demo.m4v)
